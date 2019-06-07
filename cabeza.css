@@ -1,0 +1,52 @@
+#block1 {
+    background:#DC143C none repeat scroll 0 0;
+    border:3px solid #DC143C;
+    margin:20px 0px;
+    padding:20px;
+}
+#block1 h1{
+    font-family:Georgia,"Times New Roman",Times,serif;
+    font-weight:normal;
+    text-shadow:0 0 1px #000;
+    color:#DC143C;
+    font-size:2em;
+    padding:2px 0 0;
+    text-transform:capitalize;
+    line-height:1.2em;
+    margin:0 0 10px;
+}
+#block1 h3{
+    font-family:Georgia,"Times New Roman",Times,serif;
+    font-weight:normal;
+    text-shadow:0 0 1px #000;
+    color:#EA960B;
+    font-size:2em;
+    padding:2px 0 0;
+    text-transform:capitalize;
+    line-height:1.2em;
+    margin:0 0 10px;
+}
+#block1 p em {
+    color:#000;
+    font-family:Georgia,"Times New Roman",Times,serif;
+    font-style:italic;
+    letter-spacing:0.2em;
+    margin:10px 0 20px;
+    text-transform:none;
+    padding-bottom:10px;
+}
+#block1 a{
+color: #F50077;
+text-decoration:none;
+}
+#block1 a:hover{
+text-decoration:underline
+}  
+ 
+#block1 .comments{
+    background:url(images/comments.png) no-repeat;
+    padding:0 0 0 25px
+}
+#block1 .cat{
+    background:url(images/folder.png) no-repeat;
+    padding:0 0 5px 30px;
